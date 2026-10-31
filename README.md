@@ -7,7 +7,6 @@ fifteen seconds.
 
 It is not a draft tool. It runs all season.
 
-![Standings, matchups, trades and recent moves](docs/league-hq.png)
 
 ## What's on it
 
